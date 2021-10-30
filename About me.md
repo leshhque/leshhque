@@ -1,0 +1,3 @@
+- I'm known as "lsk"
+- I'm a brazilian student interested learning more about coding
+- Currently learning Python, Node.js and java
